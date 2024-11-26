@@ -3,3 +3,22 @@ input[type="button"]{
     padding: 10px;
     background-color: #A5C663;
 }
+#button{
+    background-color: black;
+    padding: 20px 20px;
+    border:crimson;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+}
+.borde-negro{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top:10px ;
+    background-color: blueviolet;
+font-size: 25px;
+width: 10%;
+color: white;
+}
